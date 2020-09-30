@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 1.674 s <<< FAILURE! - in TestSuite
+setup(com.inetbanking.testCases.TC_LoginTest_001)  Time elapsed: 1.02 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: /Users/miftahchowdhury/SeleniumHybridFramework/./Drivers\chromedriver.exe
+
+setup(com.inetbanking.testCases.TC_AddCustomerTest_003)  Time elapsed: 1.063 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: /Users/miftahchowdhury/SeleniumHybridFramework/./Drivers\chromedriver.exe
+
